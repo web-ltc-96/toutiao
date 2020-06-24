@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    hmtt
+    <el-button type="primary" disabled>主要按钮</el-button>
   </div>
 </template>
 
